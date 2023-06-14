@@ -4,7 +4,7 @@
 
 인프런 강의 보고 실습 및 간단한 요약 - 강의명: 초보를 위한 쿠버네티스 안내서
 
-Section 01
+## Section 01
 
 - Docker를 모른다면 쿠버네티스를 완벽하게 이해할 수 없음
 
@@ -19,6 +19,13 @@ Section 01
 - 학습과정
 
         도커 실행 => 쿠버네티스 배포 => 외부 접속 => 스케일 아웃
+
+## Section 02
+
+- 용어
+
+        master, node, k8s, etcd, pod, istio, helm, knative
+        cloud native: 처음부터 클라우드에 상주하도록 설계된 애플리케이션
 
 ---
 
