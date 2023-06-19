@@ -63,6 +63,16 @@
 
         Ingress: 도메인 또는 경로별 라우팅, loadBalancer 총 관리자
 
+## Section 03
+
+- YAML 문법
+
+        이건 알아서 공부 합시다.
+
+- 윈도우 환경에서의 쿠버네티스
+
+        hyper-v 에 kube cluster 설치 후 kubectl 까지 설치
+
 ---
 
 - 나중에 따로 공부해 볼 부분
