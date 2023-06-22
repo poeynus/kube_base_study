@@ -81,6 +81,12 @@
 
         쿠버네티스에서 관리하는 가장 작은 배포 단위
 
+- ReplicaSet
+
+        Pod를 정해진 수 만큼 복제하고 관리하는 것
+        API 서버에 계속해서 ReplicaSet 조건을 체크함 조건이 맞지않으면 조건에 맞게 관리
+        실제 상황에서는 ReplicaSet을 거의 사용하지 않고 ReplicaSet을 관리해주는 deployment를 사용
+
 ---
 
 - 나중에 따로 공부해 볼 부분
